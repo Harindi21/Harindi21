@@ -78,6 +78,8 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 **Technologies**: Flutter · Spring Boot · PostgreSQL · ASP.NET Core · PostgreSQL
 
+---
+
 ## 🎓 Education
 
 BSc (Hons) in Software Engineering - NSBM Green University (2021-2025)
