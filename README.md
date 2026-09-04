@@ -54,21 +54,15 @@ Employer work lives in private company repositories, so it is not linked here. T
 
 ## 📌 Featured projects
 
-### GIGGO, a smart service marketplace · final-year research project (2024 to 2025)
-A two-sided marketplace for local services, built as **three cooperating services** and designed so the engineering operations are as considered as the features. It is the basis of my TIDAC 2026 paper, so the repository stays private while the work is under review.
+| Project | What it is | Tech |
+|---|---|---|
+| **GIGGO** ⭐ | Smart service marketplace; final-year research project (2024 to 2025) and the basis of my TIDAC 2026 paper | Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
+| **Cinnamon & Clay** | Cafe digital platform: customer website, native admin app, and a modular-monolith API | Next.js · Flutter · Spring Boot · PostgreSQL · Keycloak |
+| **Braille System** | Text and shape to Braille converter, an accessibility tool | ASP.NET Core · C# · EF Core · SQL Server |
 
-- **Architecture:** Flutter (Riverpod, GoRouter) · Spring Boot (Java 21, JWT, JPA, Flyway) · FastAPI ML service · **PostgreSQL + pgvector** · Redis · WebSocket. Every paid dependency sits behind a config-selected stub, so the whole stack runs with no external API keys.
-- **Applied ML:** multilingual review sentiment (English and Sinhala), a Bayesian composite rating, a hybrid recommender with regional fair-ranking, and demand forecasting.
-- **LLMOps:** a retrieval-augmented knowledge assistant with a golden-set evaluation, a CI quality gate that blocks regressions, safety guardrails, and a cost and latency dashboard.
-- **Engineering discipline:** one-task-per-branch PR flow, conventional commits, automated tests across backend, Flutter and ML (including a Testcontainers integration run and a k6 load test), 30+ Flyway migrations, and architecture decision records (ADRs).
+**GIGGO** adds a retrieval-augmented assistant with LLMOps (golden-set evaluation, a CI quality gate, safety guardrails, a cost and latency dashboard), multilingual review sentiment (English and Sinhala), a fair-ranking recommender, architecture decision records, and a broad automated test suite across backend, Flutter and ML. The repository stays private while the paper is under review.
 
-### Cinnamon & Clay Digital Platform
-A portfolio-grade cafe platform, organised as end-to-end product slices with operational evidence beside the code.
-
-- **Stack:** Next.js customer website · Flutter administrator app · Spring Boot modular monolith (Java 21) · PostgreSQL · Keycloak (OIDC Authorization Code + PKCE) · S3-compatible media (MinIO) · optional Prometheus / Grafana.
-- **Highlights:** role-based administration (EDITOR / ADMIN), resource-level optimistic concurrency with 409 conflict handling, a searchable audit trail with before and after detail, capability-tagged server caching with targeted revalidation, plus ADRs, a threat model and runbooks in `docs`.
-
-🔗 **[github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform](https://github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform)**
+🔗 Public code: **[Cinnamon & Clay Digital Platform](https://github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform)**
 
 ---
 
