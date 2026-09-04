@@ -43,8 +43,6 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
   - Tea Avenue Cafe POS (separate backend and frontend services)
   - Automated multi-tenant payroll system ("Maritime PL")
 
-Employer work lives in private company repositories, so it is not linked here. The public projects below are my own.
-
 ---
 
 ## 🎓 Education
