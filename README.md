@@ -59,6 +59,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 - **Full-Stack Engineer Trainee** · Jan 2024 to Jul 2024
 
   **Projects**
+      
       Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance app
 
   **Technologies**
