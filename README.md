@@ -56,7 +56,7 @@ Employer work lives in private company repositories, so it is not linked here. T
 
 | Project | What it is | Tech |
 |---|---|---|
-| **GIGGO** ⭐ | Smart service marketplace; final-year research project (2024 to 2025) and the basis of my TIDAC 2026 paper | Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
+| **GIGGO** ⭐ | Smart service marketplace; and the basis of my TIDAC 2026 paper | Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
 | **Cinnamon & Clay** | Cafe digital platform: customer website, native admin app, and a modular-monolith API | Next.js · Flutter · Spring Boot · PostgreSQL · Keycloak |
 | **Braille System** | Text and shape to Braille converter, an accessibility tool | ASP.NET Core · C# · EF Core · SQL Server |
 
