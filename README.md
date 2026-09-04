@@ -20,15 +20,35 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ## 🛠️ Tech I work with
 
-| Area | Stack |
-|---|---|
-| **Backend** | Java · Spring Boot · C# · ASP.NET Core · Python · FastAPI · Node.js · PHP (Yii) · REST · OAuth2 / JWT |
-| **Frontend & mobile** | Dart · Flutter · TypeScript · JavaScript · Next.js · React · React Native |
-| **Databases** | PostgreSQL · MySQL · SQL Server · Redis |
-| **ML** | PyTorch · Hugging Face Transformers |
-| **DevOps & tools** | Docker · GitHub Actions · Prometheus / Grafana · Keycloak · Git · Figma |
-
-[![Tech stack](https://skillicons.dev/icons?i=java,spring,cs,dotnet,dart,flutter,python,pytorch,fastapi,ts,js,nextjs,react,nodejs,php,postgres,mysql,redis,docker,git,figma&perline=11)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="46" height="46" alt="Java" /><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="46" height="46" alt="Spring Boot" /><br>Spring Boot</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="46" height="46" alt="C#" /><br>C#</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="46" height="46" alt="ASP.NET" /><br>ASP.NET</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python" /><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="46" height="46" alt="FastAPI" /><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="46" height="46" alt="Node.js" /><br>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="46" height="46" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="46" height="46" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="46" height="46" alt="React" /><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="46" height="46" alt="Next.js" /><br>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="46" height="46" alt="Flutter" /><br>Flutter</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="46" height="46" alt="Dart" /><br>Dart</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="46" height="46" alt="PHP" /><br>PHP</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="46" height="46" alt="PostgreSQL" /><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="46" height="46" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="46" height="46" alt="Redis" /><br>Redis</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="46" height="46" alt="Docker" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="46" height="46" alt="PyTorch" /><br>PyTorch</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="46" height="46" alt="Git" /><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="46" height="46" alt="Figma" /><br>Figma</td>
+  </tr>
+</table>
 
 ---
 
@@ -73,7 +93,7 @@ BSc (Hons) in Software Engineering - NSBM Green University (2021-2025)
 
 ## 📊 GitHub
 
-![GitHub streak](https://streak-stats.demolab.com/?user=Harindi21&hide_border=true&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com/?user=Harindi21&background=000000&border=30363D&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=39D353&currStreakLabel=39D353&sideNums=39D353&sideLabels=FFFFFF&dates=8B949E)
 
 ---
 
