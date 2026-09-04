@@ -61,7 +61,7 @@ BSc (Hons) in Software Engineering - NSBM Green University (2021-2025)
 
 | Project | What it is | Tech |
 |---|---|---|
-| [**GIGGO**](https://github.com/Harindi21/giggo) | Smart service marketplace; and the basis of my TIDAC 2026 paper | Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
+| [**GIGGO**](https://github.com/Harindi21/giggo) | Smart service marketplace| Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
 | [**Cinnamon & Clay**](https://github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform) | Cafe digital platform: customer website, native admin app, and a modular-monolith API | Next.js · Flutter · Spring Boot · PostgreSQL · Keycloak |
 | [**Braille System**](https://github.com/Harindi21/Braille-System) | Text and shape to Braille converter, an accessibility tool | ASP.NET Core · C# · EF Core · SQL Server |
 
