@@ -27,13 +27,16 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="46" height="46" alt="C#" /><br>C#</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="46" height="46" alt="ASP.NET" /><br>ASP.NET</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="46" height="46" alt="FastAPI" /><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="46" height="46" alt="Node.js" /><br>Node.js</td>
   </tr>
   <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="46" height="46" alt="FastAPI" /><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="46" height="46" alt="Node.js" /><br>Node.js</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="46" height="46" alt="JavaScript" /><br>JavaScript</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="46" height="46" alt="TypeScript" /><br>TypeScript</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="46" height="46" alt="React" /><br>React</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="46" height="46" alt="React Native" /><br>React Native</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="46" height="46" alt="Next.js" /><br>Next.js</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="46" height="46" alt="Flutter" /><br>Flutter</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="46" height="46" alt="Dart" /><br>Dart</td>
@@ -45,10 +48,17 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="46" height="46" alt="Redis" /><br>Redis</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="46" height="46" alt="Docker" /><br>Docker</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="46" height="46" alt="PyTorch" /><br>PyTorch</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="46" height="46" alt="GitHub Actions" /><br>GitHub Actions</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="46" height="46" alt="Prometheus" /><br>Prometheus</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="46" height="46" alt="Grafana" /><br>Grafana</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="46" height="46" alt="Git" /><br>Git</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="46" height="46" alt="Figma" /><br>Figma</td>
   </tr>
 </table>
+
+**Also:** SQL Server · Keycloak · Hugging Face Transformers · REST APIs · OAuth2 / OIDC
 
 ---
 
