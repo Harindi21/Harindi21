@@ -34,20 +34,20 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ## 💼 Experience
 
-#**Omobio Pvt Ltd**
+# **Omobio Pvt Ltd**
 - **Associate Software Engineer** · Jul 2024 to Present
 - **Full-Stack Engineer Trainee** · Jan 2024 to Jul 2024
 
-Projects: Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance app
+**Projects**: Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance app
 
-Technologies: Next.js · React · Flutter · PHP (Yii) · ExtJS · React Native · PostgreSQL · mySQL · Directus
+**Technologies**: Next.js · React · Flutter · PHP (Yii) · ExtJS · React Native · PostgreSQL · mySQL · Directus
 
-#**Baleeno Tech**
+# **Baleeno Tech**
 - **Software Engineer** · Mar 2026 to Present
 
-Projects: Tea Avenue Cafe POS, Maritime payroll (multi-tenant)
+**Projects**: Tea Avenue Cafe POS, Maritime payroll (multi-tenant)
 
-Technologies: Flutter · Spring Boot · PostgreSQL · ASP.NET Core · PostgreSQL
+**Technologies**: Flutter · Spring Boot · PostgreSQL · ASP.NET Core · PostgreSQL
 
 ## 🎓 Education
 
