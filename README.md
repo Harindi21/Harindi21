@@ -20,11 +20,12 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ## 🛠️ Tech I work with
 
-**Languages:** Java · C# · Dart · Python · TypeScript · JavaScript · PHP · SQL
-**Backend:** Spring Boot · FastAPI · ASP.NET Core · Node.js · REST · JWT / OIDC
-**Frontend & mobile:** Flutter · Next.js · React
-**Data & infra:** PostgreSQL · MySQL · SQL Server · Redis · Docker
-**Tools & platforms:** Git · GitLab · Figma · Sentry · Netlify · Contabo · Xshell
+| Area | Stack |
+|---|---|
+| **Backend** | Java · Spring Boot · C# · ASP.NET Core · Python · FastAPI · Node.js · PHP · REST · JWT / OIDC |
+| **Frontend & mobile** | Dart · Flutter · TypeScript · JavaScript · Next.js · React |
+| **Data & infra** | PostgreSQL · MySQL · SQL Server · Redis · Docker |
+| **Tools & platforms** | Git · GitLab · Figma · Sentry · Netlify · Contabo · Xshell |
 
 [![Tech stack](https://skillicons.dev/icons?i=java,spring,cs,dotnet,dart,flutter,python,fastapi,ts,js,react,nextjs,nodejs,php,postgres,mysql,redis,docker,git,gitlab,figma,sentry,netlify&perline=12)](https://skillicons.dev)
 
@@ -59,8 +60,6 @@ Employer work lives in private company repositories, so it is not linked here. T
 | [**GIGGO**](https://github.com/Harindi21/giggo) ⭐ | Smart service marketplace; and the basis of my TIDAC 2026 paper | Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
 | [**Cinnamon & Clay**](https://github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform) | Cafe digital platform: customer website, native admin app, and a modular-monolith API | Next.js · Flutter · Spring Boot · PostgreSQL · Keycloak |
 | [**Braille System**](https://github.com/Harindi21/Braille-System) | Text and shape to Braille converter, an accessibility tool | ASP.NET Core · C# · EF Core · SQL Server |
-
-**GIGGO** adds a retrieval-augmented assistant with LLMOps (golden-set evaluation, a CI quality gate, safety guardrails, a cost and latency dashboard), multilingual review sentiment (English and Sinhala), a fair-ranking recommender, architecture decision records, and a broad automated test suite across backend, Flutter and ML.
 
 ---
 
