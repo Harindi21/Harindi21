@@ -8,7 +8,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ---
 
-## 👩‍💻 About
+## About
 
 - 🏅 Graduated **top of the batch across two cohorts (21.1 and 21.2)** with a **BSc (Hons) in Software Engineering** from NSBM Green University.
 - 💼 **Associate Software Engineer** at **Omobio**, and **Software Engineer** at **Baleeno Tech**.
