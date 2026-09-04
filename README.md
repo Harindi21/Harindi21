@@ -61,6 +61,21 @@ Employer work lives in private company repositories, so it is not linked here. T
 | [**Cinnamon & Clay**](https://github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform) | Cafe digital platform: customer website, native admin app, and a modular-monolith API | Next.js · Flutter · Spring Boot · PostgreSQL · Keycloak |
 | [**Braille System**](https://github.com/Harindi21/Braille-System) | Text and shape to Braille converter, an accessibility tool | ASP.NET Core · C# · EF Core · SQL Server |
 
+**GIGGO**
+- Retrieval-augmented knowledge assistant with LLMOps: a golden-set evaluation, a CI quality gate that blocks regressions, safety guardrails, and a cost and latency dashboard.
+- Multilingual review sentiment (English and Sinhala), a Bayesian composite rating, a hybrid recommender with regional fair-ranking, and demand forecasting.
+- Three cooperating services with every paid dependency behind a config-selected stub, architecture decision records, and automated tests across backend, Flutter and ML (Testcontainers and a k6 load test).
+
+**Cinnamon & Clay**
+- OIDC Authorization Code with PKCE admin login and server-side EDITOR / ADMIN roles.
+- Resource-level optimistic concurrency with 409 conflict handling, and a searchable audit trail with before and after detail.
+- Capability-tagged server caching with targeted revalidation, S3-compatible media storage, plus ADRs, a threat model and runbooks.
+
+**Braille System**
+- ASP.NET Core MVC (C#) with EF Core and SQL Server, and ASP.NET Identity authentication.
+- Converts characters to Braille Unicode patterns and maps shapes for tactile output, including shape geometry such as perimeter.
+- CRUD management and search over a Braille shape and pattern catalog.
+
 ---
 
 ## 📊 GitHub
