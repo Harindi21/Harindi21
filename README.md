@@ -38,25 +38,14 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 - **Associate Software Engineer** · Jul 2024 to Present
 - **Full-Stack Engineer Trainee** · Jan 2024 to Jul 2024
 
-| Project | Stack |
-|---|---|
-| Hutch PET Analytics | Next.js · Directus · Flutter · PostgreSQL |
-| Hutch HOPP | PHP (Yii) · ExtJS · Next.js · SQL |
-| Hutch Selfcare | PHP (Yii) · ExtJS · React Native · SQL |
-| Hutch AdReach | React · PHP (Yii) · SQL |
-| Airtel Selfcare | Flutter · PHP (Yii) · SQL |
-| Dialog MDM | React · PHP (Yii) · SQL |
-| AIA Insurance app | Flutter · Directus · PostgreSQL |
+Projects: Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance app
+Technologies: Next.js · React · Flutter · PHP (Yii) · ExtJS · React Native · PostgreSQL · mySQL · Directus
 
 **Baleeno Tech**
 - **Software Engineer** · Mar 2026 to Present
 
-| Project | Stack |
-|---|---|
-| Tea Avenue Cafe POS | Flutter · Spring Boot · PostgreSQL |
-| Maritime payroll (multi-tenant) | WPF · ASP.NET Core · PostgreSQL |
-
----
+Projects: Tea Avenue Cafe POS, Maritime payroll (multi-tenant)
+Technologies: Flutter · Spring Boot · PostgreSQL · ASP.NET Core · PostgreSQL
 
 ## 🎓 Education
 
