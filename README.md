@@ -22,12 +22,14 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 | Area | Stack |
 |---|---|
-| **Backend** | Java · Spring Boot · C# · ASP.NET Core · Python · FastAPI · Node.js · PHP · REST · JWT / OIDC |
-| **Frontend & mobile** | Dart · Flutter · TypeScript · JavaScript · Next.js · React |
-| **Data & infra** | PostgreSQL · MySQL · SQL Server · Redis · Docker |
-| **Tools & platforms** | Git · GitLab · Figma · Sentry · Netlify · Contabo · Xshell |
+| **Backend** | Java · Spring Boot · Spring Modulith · Spring Security · JPA / Hibernate · C# · ASP.NET Core · EF Core · Python · FastAPI · Node.js · PHP · REST · WebSocket / STOMP · JWT · OAuth2 / OIDC · OpenAPI |
+| **Frontend & mobile** | Dart · Flutter (Riverpod, GoRouter) · TypeScript · JavaScript · Next.js · React |
+| **ML & data** | PyTorch · Transformers (Hugging Face) · LightFM · VADER · NumPy · SciPy · pgvector |
+| **Databases** | PostgreSQL · MySQL · SQL Server · Redis |
+| **DevOps & observability** | Docker · GitHub Actions · GitLab CI · Testcontainers · k6 · Keycloak · MinIO / S3 · Prometheus · Grafana · OpenTelemetry · Sentry |
+| **Tools & platforms** | Git · GitLab · Figma · Netlify · Contabo · Xshell |
 
-[![Tech stack](https://skillicons.dev/icons?i=java,spring,cs,dotnet,dart,flutter,python,fastapi,ts,js,react,nextjs,nodejs,php,postgres,mysql,redis,docker,git,gitlab,figma,sentry,netlify&perline=12)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=java,spring,cs,dotnet,dart,flutter,python,pytorch,fastapi,ts,js,nextjs,react,nodejs,php,postgres,mysql,redis,docker,githubactions,gitlab,prometheus,grafana,sentry,netlify,figma,git,github&perline=14)](https://skillicons.dev)
 
 ---
 
