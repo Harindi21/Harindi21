@@ -61,6 +61,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 **Projects**: Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance app
 
 **Technologies**: Next.js · React · Flutter · PHP (Yii) · ExtJS · React Native · PostgreSQL · mySQL · Directus
+
 ---
 
 ### **Baleeno Tech**
