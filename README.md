@@ -58,8 +58,6 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
   </tr>
 </table>
 
-**Also:** SQL Server · Keycloak · Hugging Face Transformers · REST APIs · OAuth2 / OIDC
-
 ---
 
 ## 💼 Experience
