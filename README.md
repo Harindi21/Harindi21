@@ -22,13 +22,13 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 | Area | Stack |
 |---|---|
-| **Backend** | Java · Spring Boot · C# · ASP.NET Core · Python · FastAPI · Node.js · REST · OAuth2 / JWT |
-| **Frontend & mobile** | Dart · Flutter · TypeScript · JavaScript · Next.js · React |
+| **Backend** | Java · Spring Boot · C# · ASP.NET Core · Python · FastAPI · Node.js · PHP (Yii) · REST · OAuth2 / JWT |
+| **Frontend & mobile** | Dart · Flutter · TypeScript · JavaScript · Next.js · React · React Native |
 | **Databases** | PostgreSQL · MySQL · SQL Server · Redis |
 | **ML** | PyTorch · Hugging Face Transformers |
 | **DevOps & tools** | Docker · GitHub Actions · Prometheus / Grafana · Keycloak · Git · Figma |
 
-[![Tech stack](https://skillicons.dev/icons?i=java,spring,cs,dotnet,dart,flutter,python,pytorch,fastapi,ts,js,nextjs,react,nodejs,postgres,mysql,redis,docker,git,figma&perline=10)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=java,spring,cs,dotnet,dart,flutter,python,pytorch,fastapi,ts,js,nextjs,react,nodejs,php,postgres,mysql,redis,docker,git,figma&perline=11)](https://skillicons.dev)
 
 ---
 
@@ -38,10 +38,19 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 - **Associate Software Engineer** · Jul 2024 to Present
 - **Full-Stack Engineer Trainee** · Jan 2024 to Jul 2024
 
+Client projects:
+- **Hutch PET Analytics** — Next.js · Directus · Flutter
+- **Hutch HOPP** — PHP (Yii) · ExtJS · Next.js
+- **Hutch Selfcare** — PHP (Yii) · ExtJS · React Native
+- **Hutch AdReach** — React · PHP (Yii)
+- **Airtel Selfcare** — Flutter · PHP (Yii)
+- **Dialog MDM** — React · PHP (Yii)
+- **AIA Insurance app** — Flutter · Directus
+
 **Baleeno Tech**
 - **Software Engineer** · Mar 2026 to Present
-  - Tea Avenue Cafe POS (separate backend and frontend services)
-  - Automated multi-tenant payroll system ("Maritime PL")
+  - **Tea Avenue Cafe POS** — Flutter · Spring Boot · PostgreSQL
+  - **Maritime payroll** (multi-tenant) — WPF · ASP.NET Core · PostgreSQL
 
 ---
 
