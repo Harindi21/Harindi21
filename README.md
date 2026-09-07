@@ -40,8 +40,6 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="46" height="46" alt="Flutter" /><br>Flutter</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="46" height="46" alt="Dart" /><br>Dart</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="46" height="46" alt="PHP" /><br>PHP</td>
-  </tr>
-  <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="46" height="46" alt="PostgreSQL" /><br>PostgreSQL</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="46" height="46" alt="MySQL" /><br>MySQL</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="46" height="46" alt="Redis" /><br>Redis</td>
