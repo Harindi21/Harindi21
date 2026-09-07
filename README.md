@@ -76,7 +76,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 <sub>Jan 2024 – Jul 2024</sub>
 </td>
 <td>Omobio (Pvt) Ltd</td>
-<td><sub><b>Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance App</b>b></sub></td>
+<td><sub><b>Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance App</b></sub></td>
 <td><sub><b>Next.js · React · Flutter · PHP (Yii) · ExtJS · React Native · PostgreSQL · MySQL · Directus</b>b></sub></td>
 </tr>
 <tr>
