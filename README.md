@@ -61,29 +61,80 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ## 💼 Experience
 
-| Role | Company | Projects | Technologies |
-|--------------|---------|-------|---------|
-| **Associate Software Engineer** <sub>(Jul 2024 - Present)</sub><br>**Trainee Software Engineer** (Jan 2024 - Jul 2024) | Omobio (Pvt) Ltd | Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance App | Next.js · React · Flutter · PHP (Yii) · ExtJS · React Native · PostgreSQL · MySQL · Directus |
-| **Software Engineer** <sub>(Mar 2026 - Present)</sub> | Baleeno Tech | Tea Avenue Cafe POS · Maritime Payroll (Multi-tenant) | Flutter · Spring Boot · PostgreSQL · ASP.NET Core |
+<h2>💼 Experience</h2>
 
-### **Omobio Pvt Ltd**
-- **Associate Software Engineer** · Jul 2024 to Present
-- **Full-Stack Engineer Trainee** · Jan 2024 to Jul 2024
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Role</th>
+      <th width="14%">Company</th>
+      <th width="28%">Projects</th>
+      <th width="28%">Technologies</th>
+    </tr>
+  </thead>
 
-**Projects**: Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance app
+  <tbody>
+    <tr>
+      <td>
+        <b>Associate&nbsp;Software&nbsp;Engineer</b><br>
+        <sub>Jul 2024 – Present</sub>
+        <br><br>
+        <b>Trainee&nbsp;Software&nbsp;Engineer</b><br>
+        <sub>Jan 2024 – Jul 2024</sub>
+      </td>
 
-**Technologies**: Next.js · React · Flutter · PHP (Yii) · ExtJS · React Native · PostgreSQL · mySQL · Directus
+      <td>
+        Omobio<br>
+        (Pvt) Ltd
+      </td>
 
----
+      <td>
+        <sub>
+          Hutch PET Analytics ·
+          Hutch HOPP ·
+          Hutch Selfcare ·
+          Hutch AdReach ·
+          Airtel Selfcare ·
+          Dialog MDM ·
+          AIA Insurance App
+        </sub>
+      </td>
 
-### **Baleeno Tech**
-- **Software Engineer** · Mar 2026 to Present
+      <td>
+        <sub>
+          Next.js · React · Flutter ·
+          PHP (Yii) · ExtJS · React Native ·
+          PostgreSQL · MySQL · Directus
+        </sub>
+      </td>
+    </tr>
 
-**Projects**: Tea Avenue Cafe POS, Maritime payroll (multi-tenant)
+    <tr>
+      <td>
+        <b>Software&nbsp;Engineer</b><br>
+        <sub>Mar 2026 – Present</sub>
+      </td>
 
-**Technologies**: Flutter · Spring Boot · PostgreSQL · ASP.NET Core · PostgreSQL
+      <td>
+        Baleeno Tech
+      </td>
 
----
+      <td>
+        <sub>
+          Tea Avenue Cafe POS ·
+          Maritime Payroll (Multi-tenant)
+        </sub>
+      </td>
+
+      <td>
+        <sub>
+          Flutter · Spring Boot ·
+          PostgreSQL · ASP.NET Core
+        </sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🎓 Education
 
