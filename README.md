@@ -61,79 +61,33 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ## 💼 Experience
 
-<h2>💼 Experience</h2>
-
 <table>
-  <thead>
-    <tr>
-      <th width="30%">Role</th>
-      <th width="14%">Company</th>
-      <th width="28%">Projects</th>
-      <th width="28%">Technologies</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>
-        <b>Associate&nbsp;Software&nbsp;Engineer</b><br>
-        <sub>Jul 2024 – Present</sub>
-        <br><br>
-        <b>Trainee&nbsp;Software&nbsp;Engineer</b><br>
-        <sub>Jan 2024 – Jul 2024</sub>
-      </td>
-
-      <td>
-        Omobio<br>
-        (Pvt) Ltd
-      </td>
-
-      <td>
-        <sub>
-          Hutch PET Analytics ·
-          Hutch HOPP ·
-          Hutch Selfcare ·
-          Hutch AdReach ·
-          Airtel Selfcare ·
-          Dialog MDM ·
-          AIA Insurance App
-        </sub>
-      </td>
-
-      <td>
-        <sub>
-          Next.js · React · Flutter ·
-          PHP (Yii) · ExtJS · React Native ·
-          PostgreSQL · MySQL · Directus
-        </sub>
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <b>Software&nbsp;Engineer</b><br>
-        <sub>Mar 2026 – Present</sub>
-      </td>
-
-      <td>
-        Baleeno Tech
-      </td>
-
-      <td>
-        <sub>
-          Tea Avenue Cafe POS ·
-          Maritime Payroll (Multi-tenant)
-        </sub>
-      </td>
-
-      <td>
-        <sub>
-          Flutter · Spring Boot ·
-          PostgreSQL · ASP.NET Core
-        </sub>
-      </td>
-    </tr>
-  </tbody>
+<tr>
+<th width="36%">Role</th>
+<th width="14%">Company</th>
+<th width="25%">Projects</th>
+<th width="25%">Technologies</th>
+</tr>
+<tr>
+<td>
+<b>Associate&nbsp;Software&nbsp;Engineer</b><br>
+<sub>Jul 2024 – Present</sub><br><br>
+<b>Trainee&nbsp;Software&nbsp;Engineer</b><br>
+<sub>Jan 2024 – Jul 2024</sub>
+</td>
+<td>Omobio (Pvt) Ltd</td>
+<td><sub>Hutch PET Analytics · Hutch HOPP · Hutch Selfcare · Hutch AdReach · Airtel Selfcare · Dialog MDM · AIA Insurance App</sub></td>
+<td><sub>Next.js · React · Flutter · PHP (Yii) · ExtJS · React Native · PostgreSQL · MySQL · Directus</sub></td>
+</tr>
+<tr>
+<td>
+<b>Software&nbsp;Engineer</b><br>
+<sub>Mar 2026 – Present</sub>
+</td>
+<td>Baleeno Tech</td>
+<td><sub>Tea Avenue Cafe POS · Maritime Payroll (Multi-tenant)</sub></td>
+<td><sub>Flutter · Spring Boot · PostgreSQL · ASP.NET Core</sub></td>
+</tr>
 </table>
 
 ## 🎓 Education
