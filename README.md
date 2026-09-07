@@ -61,52 +61,76 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ## 💼 Experience
 
-### 🟣 Omobio (Pvt) Ltd
-
-**Associate Software Engineer**  
-<sub>Jul 2024 – Present</sub>
-
-**Trainee Software Engineer**  
-<sub>Jan 2024 – Jul 2024</sub>
-
-**Projects**
-
-`Hutch PET Analytics` · `Hutch HOPP` · `Hutch Selfcare` · `Hutch AdReach` · `Airtel Selfcare` · `Dialog MDM` · `AIA Insurance App`
-
-**Technologies**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Yii](https://img.shields.io/badge/Yii-40B3D8?style=flat-square)
-![ExtJS](https://img.shields.io/badge/ExtJS-86BC40?style=flat-square)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Directus](https://img.shields.io/badge/Directus-263238?style=flat-square&logo=directus&logoColor=white)
-
----
-
-### 🔵 Baleeno Tech
-
-**Software Engineer**  
-<sub>Mar 2026 – Present</sub>
-
-**Projects**
-
-`Tea Avenue Cafe POS` · `Maritime Payroll (Multi-tenant)`
-
-**Technologies**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
----
-
 ## 💼 Experience
+
+<table width="100%">
+<tr>
+<th width="34%">Role</th>
+<th width="14%">Company</th>
+<th width="29%">Projects</th>
+<th width="23%">Technologies</th>
+</tr>
+<tr>
+<td>
+<b>Associate&nbsp;Software&nbsp;Engineer</b><br>
+<sub>Jul 2024 – Present</sub><br><br>
+<b>Trainee&nbsp;Software&nbsp;Engineer</b><br>
+<sub>Jan 2024 – Jul 2024</sub>
+</td>
+<td align="center">
+🟣<br>
+<b>Omobio<br>(Pvt) Ltd</b>
+</td>
+<td>
+<sub>
+<b>Hutch PET Analytics</b> ·
+<b>Hutch HOPP</b> ·
+<b>Hutch Selfcare</b> ·
+<b>Hutch AdReach</b> ·
+<b>Airtel Selfcare</b> ·
+<b>Dialog MDM</b> ·
+<b>AIA Insurance App</b>
+</sub>
+</td>
+<td>
+<sub>
+<code>Next.js</code>
+<code>React</code>
+<code>Flutter</code>
+<code>React Native</code>
+<code>PHP (Yii)</code>
+<code>ExtJS</code>
+<code>PostgreSQL</code>
+<code>MySQL</code>
+<code>Directus</code>
+</sub>
+</td>
+</tr>
+<tr>
+<td>
+<b>Software&nbsp;Engineer</b><br>
+<sub>Mar 2026 – Present</sub>
+</td>
+<td align="center">
+🔵<br>
+<b>Baleeno&nbsp;Tech</b>
+</td>
+<td>
+<sub>
+<b>Tea Avenue Cafe POS</b> ·
+<b>Maritime Payroll</b> <small>(Multi-tenant)</small>
+</sub>
+</td>
+<td>
+<sub>
+<code>Flutter</code>
+<code>Spring Boot</code>
+<code>PostgreSQL</code>
+<code>ASP.NET Core</code>
+</sub>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
