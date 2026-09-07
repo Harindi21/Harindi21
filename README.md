@@ -197,12 +197,6 @@ BSc (Hons) in Software Engineering - NSBM Green University (2021-2025)
 
 ---
 
-## 📊 GitHub
-
-![GitHub streak](https://streak-stats.demolab.com/?user=Harindi21&background=000000&border=30363D&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=39D353&currStreakLabel=39D353&sideNums=39D353&sideLabels=FFFFFF&dates=8B949E)
-
----
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
