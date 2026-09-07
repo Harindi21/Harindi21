@@ -131,12 +131,8 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 </table>
 
 ## 🎓 Education
-
-🏫 **BSc Hons in Software Engineering** — NSBM Green University, Sri Lanka (2021–2025)
-**Batch Top** across two cohorts 21.1 & 21.2 | **First Class Honours**
-
-
-BSc (Hons) in Software Engineering - NSBM Green University (2021-2025)
+ 
+🏫 BSc (Hons) in Software Engineering - NSBM Green University (2021-2025)
 
 **Batch Top** across two cohorts 21.1 & 21.2. | **First Class Honours** 
 
