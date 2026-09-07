@@ -6,7 +6,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 📍 Colombo, Sri Lanka
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harindi21.github.io-F97316?style=for-the-badge&logoColor=white)](https://harindi21.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harindi21.github.io-2ECC40?style=for-the-badge&logoColor=white)](https://harindi21.github.io)
 
 ---
 
