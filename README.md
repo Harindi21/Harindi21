@@ -61,8 +61,6 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ## 💼 Experience
 
-## 💼 Experience
-
 <table width="100%">
 <tr>
 <th width="34%">Role</th>
