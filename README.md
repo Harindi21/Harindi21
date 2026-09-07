@@ -84,7 +84,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 BSc (Hons) in Software Engineering - NSBM Green University (2021-2025)
 
-**Batch Top across two cohorts 21.1 & 21.2. | First Class Honours** 
+**Batch Top** across two cohorts 21.1 & 21.2. | **First Class Honours** 
 
 ---
 
