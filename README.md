@@ -156,7 +156,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 ## 🔗 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harindi21.github.io-F97316?style=for-the-badge&logoColor=white)](https://harindi21.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harindi21.github.io-2ECC40?style=for-the-badge&logoColor=white)](https://harindi21.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harindi21)
