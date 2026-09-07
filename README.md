@@ -90,6 +90,53 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 </tr>
 </table>
 
+## 💼 Experience
+
+### 🟣 Omobio (Pvt) Ltd
+
+**Associate Software Engineer**  
+<sub>Jul 2024 – Present</sub>
+
+**Trainee Software Engineer**  
+<sub>Jan 2024 – Jul 2024</sub>
+
+**Projects**
+
+`Hutch PET Analytics` · `Hutch HOPP` · `Hutch Selfcare` · `Hutch AdReach` · `Airtel Selfcare` · `Dialog MDM` · `AIA Insurance App`
+
+**Technologies**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Yii](https://img.shields.io/badge/Yii-40B3D8?style=flat-square)
+![ExtJS](https://img.shields.io/badge/ExtJS-86BC40?style=flat-square)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-263238?style=flat-square&logo=directus&logoColor=white)
+
+---
+
+### 🔵 Baleeno Tech
+
+**Software Engineer**  
+<sub>Mar 2026 – Present</sub>
+
+**Projects**
+
+`Tea Avenue Cafe POS` · `Maritime Payroll (Multi-tenant)`
+
+**Technologies**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+---
+
 ## 🎓 Education
 
 BSc (Hons) in Software Engineering - NSBM Green University (2021-2025)
