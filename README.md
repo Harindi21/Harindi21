@@ -86,7 +86,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 </td>
 <td>Baleeno Tech</td>
 <td><sub><b>Tea Avenue Cafe POS · Maritime Payroll (Multi-tenant)</b>b></sub></td>
-<td><sub>Flutter · Spring Boot · PostgreSQL · ASP.NET Core</sub></td>
+<td><sub><b>Flutter · Spring Boot · PostgreSQL · ASP.NET Core</b></sub></td>
 </tr>
 </table>
 
