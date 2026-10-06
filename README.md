@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer**
 
-I build full-stack products end to end: Flutter and Next.js frontends, Spring Boot / FastAPI / ASP.NET backends, and the data and ML features behind them. I care about the parts that make software last, clean architecture, tests and CI quality gates, and integrations that fail soft.
+I build full-stack products end to end: Flutter and Next.js frontends, Spring Boot / FastAPI / ASP.NET backends, and the data and ML features behind them, along with the CI/CD and infrastructure that ships them. I care about the parts that make software last, clean architecture, tests and CI quality gates, and integrations that fail soft.
 
 📍 Colombo, Sri Lanka
 
@@ -48,6 +48,8 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="46" height="46" alt="GitHub Actions" /><br>GitHub Actions</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="46" height="46" alt="Linux" /><br>Linux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="46" height="46" alt="Nginx" /><br>Nginx</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="46" height="46" alt="Prometheus" /><br>Prometheus</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="46" height="46" alt="Grafana" /><br>Grafana</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="46" height="46" alt="Git" /><br>Git</td>
@@ -123,6 +125,10 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 <code>Spring Boot</code>
 <code>PostgreSQL</code>
 <code>ASP.NET Core</code>
+<code>Docker</code>
+<code>GitHub Actions</code>
+<code>AWS</code>
+<code>Nginx</code>
 </sub>
 </td>
 </tr>
