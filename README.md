@@ -72,7 +72,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 <td>
 <b>Associate&nbsp;Software&nbsp;Engineer</b><br>
 <sub>Jul 2024 – Present</sub><br><br>
-<b>Trainee&nbsp;Software&nbsp;Engineer</b><br>
+<b>Trainee&nbsp;Fullstack&nbsp;Engineer</b><br>
 <sub>Jan 2024 – Jul 2024</sub>
 </td>
 <td align="center">
