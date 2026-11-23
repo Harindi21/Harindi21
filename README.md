@@ -124,7 +124,6 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 <code>Flutter</code>
 <code>Spring Boot</code>
 <code>PostgreSQL</code>
-<code>ASP.NET Core</code>
 <code>Docker</code>
 <code>GitHub Actions</code>
 <code>AWS</code>
