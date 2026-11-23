@@ -148,12 +148,12 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 |---|---|---|
 | [**GIGGO**](https://github.com/Harindi21/giggo) | Smart service marketplace| Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
 | [**Cinnamon & Clay**](https://github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform) | Cafe digital platform: customer website, native admin app, and a modular-monolith API | Next.js · Flutter · Spring Boot · PostgreSQL · Keycloak |
-| [**Braille System**](https://github.com/Harindi21/Braille-System) | Text and shape to Braille converter, an accessibility tool | ASP.NET Core · C# · EF Core · SQL Server |
+| [**BrailleMaster: Accessibility Translation Platform**](https://github.com/Harindi21/Braille-System) | Text and shape to Braille converter, an accessibility tool | ASP.NET Core · C# · EF Core · SQL Server |
 | [**Spacecraft Anomaly Detection**](https://github.com/Harindi21/spacecraft-anomaly-detection) | Unsupervised anomaly detection on spacecraft telemetry (NASA SMAP/MSL) | Python · NumPy · Keras/TensorFlow · pytest |
 
 - **GIGGO:** RAG assistant with LLMOps (evaluation, CI quality gate, guardrails), multilingual review sentiment, and a fair-ranking recommender.
 - **Cinnamon & Clay:** OIDC with PKCE admin, resource-level optimistic concurrency with 409 conflict handling, and a searchable audit trail.
-- **Braille System:** ASP.NET Core MVC with EF Core and Identity; converts text and shapes into Braille glyphs.
+- **BrailleMaster: Accessibility Translation Platform:** ASP.NET Core MVC with EF Core and Identity; converts text and shapes into Braille glyphs.
 - **Spacecraft Anomaly Detection:** LSTM forecasting with nonparametric per-channel dynamic thresholding; flags anomalies in multichannel telemetry without labels.
 
 ---
