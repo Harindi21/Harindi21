@@ -140,6 +140,8 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 
 **Batch Top** across two cohorts 21.1 & 21.2. | **First Class Honours** 
 
+Author, “GIGGO: An AI-Augmented Service Marketplace for Enhancing Local Service Discovery in Sri Lanka,” published at TIDAC 2026, 3rd International Research Conference. 
+
 ---
 
 ## 📌 Featured projects
