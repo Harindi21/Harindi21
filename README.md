@@ -148,21 +148,13 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 |---|---|---|
 | [**GIGGO: AI-Augmented Service Marketplace**](https://github.com/Harindi21/giggo) | Smart service marketplace| Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
 | [**Cinnamon & Clay Cafe Digital Platform**](https://github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform) | Cafe digital platform: customer website, native admin app, and a modular-monolith API | Next.js · Flutter · Spring Boot · PostgreSQL · Keycloak |
-| [**BrailleMaster: Accessibility Translation Platform**](https://github.com/Harindi21/Braille-System) | Text and shape to Braille converter, an accessibility tool | ASP.NET Core · C# · EF Core · SQL Server |
-| [**Spacecraft Anomaly Detection**](https://github.com/Harindi21/spacecraft-anomaly-detection) | Unsupervised anomaly detection on spacecraft telemetry (NASA SMAP/MSL) | Python · NumPy · Keras/TensorFlow · pytest |
-
-- **GIGGO:** RAG assistant with LLMOps (evaluation, CI quality gate, guardrails), multilingual review sentiment, and a fair-ranking recommender.
-- **Cinnamon & Clay:** OIDC with PKCE admin, resource-level optimistic concurrency with 409 conflict handling, and a searchable audit trail.
-- **BrailleMaster:** ASP.NET Core MVC with EF Core and Identity; converts text and shapes into Braille glyphs.
-- **Spacecraft Anomaly Detection:** LSTM forecasting with nonparametric per-channel dynamic thresholding; flags anomalies in multichannel telemetry without labels.
 
 ---
 
-## 🔗 Connect
+## 📈 GitHub activity
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harindi21.github.io-2ECC40?style=for-the-badge&logoColor=white)](https://harindi21.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harindi21)
-
-<!-- LinkedIn and Dev.to links are placeholders; update them with your real profiles. -->
+<p align="center">
+  <a href="https://github.com/Harindi21">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harindi21&custom_title=Total%20contribution%20graph%20in%20all%20repos&bg_color=0b0d10&color=f1f1e9&title_color=c3fa65&line=c3fa65&point=ffffff&area=true&area_color=c3fa65&hide_border=true&radius=8" alt="Harindi's GitHub contribution graph" width="100%" />
+  </a>
+</p>
