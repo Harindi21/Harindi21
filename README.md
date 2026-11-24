@@ -111,7 +111,7 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 </td>
 <td align="center">
 🔵<br>
-<b>Baleeno&nbsp;Tech</b>
+<b>Baleeno&nbsp;Digitization Agency</b>
 </td>
 <td>
 <sub>
