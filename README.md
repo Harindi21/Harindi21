@@ -148,13 +148,3 @@ I build full-stack products end to end: Flutter and Next.js frontends, Spring Bo
 |---|---|---|
 | [**GIGGO: AI-Augmented Service Marketplace**](https://github.com/Harindi21/giggo) | Smart service marketplace| Flutter · Spring Boot · FastAPI · PostgreSQL + pgvector · Redis |
 | [**Cinnamon & Clay Cafe Digital Platform**](https://github.com/Harindi21/Cinnamon-and-Clay-Digital-Platform) | Cafe digital platform: customer website, native admin app, and a modular-monolith API | Next.js · Flutter · Spring Boot · PostgreSQL · Keycloak |
-
----
-
-## 📈 GitHub activity
-
-<p align="center">
-  <a href="https://github.com/Harindi21">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harindi21&custom_title=Total%20contribution%20graph%20in%20all%20repos&bg_color=0b0d10&color=f1f1e9&title_color=c3fa65&line=c3fa65&point=ffffff&area=true&area_color=c3fa65&hide_border=true&radius=8" alt="Harindi's GitHub contribution graph" width="100%" />
-  </a>
-</p>
